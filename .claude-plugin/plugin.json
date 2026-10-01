@@ -1,0 +1,10 @@
+{
+  "name": "tusk",
+  "version": "0.1.0",
+  "description": "Let your clients edit the sites you build. Connect a site to Tusk CMS from Claude Code: scan it for editable text and images, wire the build, publish, check the deploy and invite the client.",
+  "author": { "name": "Tusk CMS", "email": "hello@tuskcms.com", "url": "https://tuskcms.com" },
+  "homepage": "https://tuskcms.com/docs/ai-assistants",
+  "repository": "https://github.com/emiledelarey/tusk-claude-plugin",
+  "license": "MIT",
+  "keywords": ["cms", "headless-cms", "client-editing", "website", "mcp", "tusk"]
+}

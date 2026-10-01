@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tusk": {
+      "command": "npx",
+      "args": ["-y", "@tuskcms/mcp@latest"]
+    }
+  }
+}

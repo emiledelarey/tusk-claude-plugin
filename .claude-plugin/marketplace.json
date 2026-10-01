@@ -1,0 +1,15 @@
+{
+  "name": "tuskcms",
+  "owner": {
+    "name": "Tusk CMS",
+    "email": "hello@tuskcms.com"
+  },
+  "plugins": [
+    {
+      "name": "tusk",
+      "source": "./",
+      "description": "Let your clients edit the sites you build: connect a site to Tusk CMS, publish and invite the client from Claude Code."
+    }
+  ],
+  "description": "Tusk CMS for Claude Code: let your clients edit the sites you build."
+}
